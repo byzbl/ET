@@ -28,6 +28,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Hotfix\DotNet.Hotfix.csproj" />
     <ProjectReference Include="..\Loader\DotNet.Loader.csproj" />
     <ProjectReference Include="..\Model\DotNet.Model.csproj" />
   </ItemGroup>
